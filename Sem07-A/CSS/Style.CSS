@@ -1,0 +1,15 @@
+nav {background-color: rgb(30, 174, 210);}
+nav ol a {
+    background-color: rgb(180, 135, 222);
+display: block;
+list-style: none;
+padding: 8px 16px; ;
+border:1px dashed rgb(119, 9, 73);
+font-family: sans-serif;
+}
+nav ol{
+    display: flex;
+    padding-left: 0%;
+    background-color: aqua;
+    
+}
